@@ -20,4 +20,4 @@ To use this API:
     - To edit (PUT) or delete (DELETE) an existing object: 'http://127.0.0.1:8000/api/< id >
 
 
-[GitHub Pull Request](https://github.com/emad-almajdalawi/django-snacks-API/pull/1)
+[GitHub Pull Request](https://github.com/emad-almajdalawi/drf-api/pull/1)
